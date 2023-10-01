@@ -4,6 +4,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+using : nextjs - axios - dotenv - reactGoogleLogin - nextAuth
+
 ```bash
 npm run dev
 # or
